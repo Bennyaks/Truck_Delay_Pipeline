@@ -59,7 +59,7 @@ truck_delay_pipeline/
 │   ├── feature_engineering.py
 │   ├── profile_data.py
 │   ├── train_model.py
-│   └── aws_rds_template.py
+│   └── rds_loader_template.py
 │
 ├── images
 ├── requirements.txt
@@ -268,7 +268,7 @@ The original project specification includes deployment using:
 This repository includes:
 
 ```
-src/aws_rds_template.py
+src/rds_loader_template.py
 ```
 
 This file is intentionally provided as a **commented reference implementation** showing how the pipeline can be migrated from local CSV files to AWS RDS.
