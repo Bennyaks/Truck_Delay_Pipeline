@@ -61,6 +61,7 @@ truck_delay_pipeline/
 │   ├── train_model.py
 │   └── aws_rds_template.py
 │
+├── images
 ├── requirements.txt
 ├── README.md
 └── .gitignore
