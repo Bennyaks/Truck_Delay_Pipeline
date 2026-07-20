@@ -7,3 +7,7 @@ matplotlib>=3.9.2
 seaborn>=0.13.2
 scikit-learn>=1.7.2
 jupyter>=1.1.1
+
+# Optional -- only needed if using feature_store.py (Hopsworks Feature Store)
+# hopsworks>=5.0.3
+# pyarrow>=17.0.0
