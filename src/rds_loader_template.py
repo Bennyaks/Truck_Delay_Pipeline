@@ -1,3 +1,18 @@
+# ============================================================
+# NOTE
+# ------------------------------------------------------------
+# This file is intentionally fully commented out.
+#
+# It serves as a reference implementation showing how this
+# project can be extended from local CSV files to AWS RDS and
+# SageMaker, as required in the original project specification.
+#
+# Uncomment and configure it only after creating your own AWS
+# RDS instances and credentials.
+# ============================================================
+
+
+
 """
 aws_rds.py
 ----------
