@@ -1,0 +1,9 @@
+# Minimum versions confirmed compatible with Python 3.13 / 3.14.
+# (Python 3.15 does not exist as a stable release yet as of mid-2026 —
+# use 3.13 or 3.14 for this project to avoid missing-wheel issues.)
+pandas>=2.2.3
+numpy>=2.1.0
+matplotlib>=3.9.2
+seaborn>=0.13.2
+scikit-learn>=1.7.2
+jupyter>=1.1.1
